@@ -1,0 +1,72 @@
+C:\Estudo C#\APICatalogo\APICatalogo\bin\Debug\net6.0\appsettings.Development.json
+C:\Estudo C#\APICatalogo\APICatalogo\bin\Debug\net6.0\appsettings.json
+C:\Estudo C#\APICatalogo\APICatalogo\bin\Debug\net6.0\APICatalogo.exe
+C:\Estudo C#\APICatalogo\APICatalogo\bin\Debug\net6.0\APICatalogo.deps.json
+C:\Estudo C#\APICatalogo\APICatalogo\bin\Debug\net6.0\APICatalogo.runtimeconfig.json
+C:\Estudo C#\APICatalogo\APICatalogo\bin\Debug\net6.0\APICatalogo.dll
+C:\Estudo C#\APICatalogo\APICatalogo\bin\Debug\net6.0\APICatalogo.pdb
+C:\Estudo C#\APICatalogo\APICatalogo\bin\Debug\net6.0\Humanizer.dll
+C:\Estudo C#\APICatalogo\APICatalogo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Estudo C#\APICatalogo\APICatalogo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Estudo C#\APICatalogo\APICatalogo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Estudo C#\APICatalogo\APICatalogo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Estudo C#\APICatalogo\APICatalogo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Estudo C#\APICatalogo\APICatalogo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Estudo C#\APICatalogo\APICatalogo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Estudo C#\APICatalogo\APICatalogo\bin\Debug\net6.0\MySqlConnector.dll
+C:\Estudo C#\APICatalogo\APICatalogo\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Estudo C#\APICatalogo\APICatalogo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Estudo C#\APICatalogo\APICatalogo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Estudo C#\APICatalogo\APICatalogo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Estudo C#\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.csproj.AssemblyReference.cache
+C:\Estudo C#\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo C#\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.AssemblyInfoInputs.cache
+C:\Estudo C#\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.AssemblyInfo.cs
+C:\Estudo C#\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.csproj.CoreCompileInputs.cache
+C:\Estudo C#\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.MvcApplicationPartsAssemblyInfo.cs
+C:\Estudo C#\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.MvcApplicationPartsAssemblyInfo.cache
+C:\Estudo C#\APICatalogo\APICatalogo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Estudo C#\APICatalogo\APICatalogo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Estudo C#\APICatalogo\APICatalogo\obj\Debug\net6.0\scopedcss\bundle\APICatalogo.styles.css
+C:\Estudo C#\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.csproj.CopyComplete
+C:\Estudo C#\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.dll
+C:\Estudo C#\APICatalogo\APICatalogo\obj\Debug\net6.0\refint\APICatalogo.dll
+C:\Estudo C#\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.pdb
+C:\Estudo C#\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.genruntimeconfig.cache
+C:\Estudo C#\APICatalogo\APICatalogo\obj\Debug\net6.0\ref\APICatalogo.dll
+C:\C#\APICatalogo\APICatalogo\bin\Debug\net6.0\appsettings.Development.json
+C:\C#\APICatalogo\APICatalogo\bin\Debug\net6.0\appsettings.json
+C:\C#\APICatalogo\APICatalogo\bin\Debug\net6.0\APICatalogo.exe
+C:\C#\APICatalogo\APICatalogo\bin\Debug\net6.0\APICatalogo.deps.json
+C:\C#\APICatalogo\APICatalogo\bin\Debug\net6.0\APICatalogo.runtimeconfig.json
+C:\C#\APICatalogo\APICatalogo\bin\Debug\net6.0\APICatalogo.dll
+C:\C#\APICatalogo\APICatalogo\bin\Debug\net6.0\APICatalogo.pdb
+C:\C#\APICatalogo\APICatalogo\bin\Debug\net6.0\Humanizer.dll
+C:\C#\APICatalogo\APICatalogo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\C#\APICatalogo\APICatalogo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\C#\APICatalogo\APICatalogo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\C#\APICatalogo\APICatalogo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\C#\APICatalogo\APICatalogo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\C#\APICatalogo\APICatalogo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\C#\APICatalogo\APICatalogo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\C#\APICatalogo\APICatalogo\bin\Debug\net6.0\MySqlConnector.dll
+C:\C#\APICatalogo\APICatalogo\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\C#\APICatalogo\APICatalogo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\C#\APICatalogo\APICatalogo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\C#\APICatalogo\APICatalogo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\C#\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.csproj.AssemblyReference.cache
+C:\C#\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.AssemblyInfoInputs.cache
+C:\C#\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.AssemblyInfo.cs
+C:\C#\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.csproj.CoreCompileInputs.cache
+C:\C#\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.MvcApplicationPartsAssemblyInfo.cs
+C:\C#\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.MvcApplicationPartsAssemblyInfo.cache
+C:\C#\APICatalogo\APICatalogo\obj\Debug\net6.0\staticwebassets.build.json
+C:\C#\APICatalogo\APICatalogo\obj\Debug\net6.0\staticwebassets.development.json
+C:\C#\APICatalogo\APICatalogo\obj\Debug\net6.0\scopedcss\bundle\APICatalogo.styles.css
+C:\C#\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.csproj.CopyComplete
+C:\C#\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.dll
+C:\C#\APICatalogo\APICatalogo\obj\Debug\net6.0\refint\APICatalogo.dll
+C:\C#\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.pdb
+C:\C#\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.genruntimeconfig.cache
+C:\C#\APICatalogo\APICatalogo\obj\Debug\net6.0\ref\APICatalogo.dll
